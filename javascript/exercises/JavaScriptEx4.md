@@ -53,7 +53,7 @@ Check your ``htdocs/JavaScript`` folder.  You should have some new files in it.
 		
 	![alt text](../images/cardDealer_html.png "Card Dealer")
 	
-	You can download the images from [here](../images/cards.zip?raw=true).
+	You can download the images from [here](../images/cards.zip).  
 
 	Ensure a maximum of 5 cards can be dealt and never deal the same card more than once.
 
