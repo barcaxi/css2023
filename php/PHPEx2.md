@@ -92,7 +92,7 @@
 
 1.	Write a PHP program called ``table.php`` that prints the multiplication table shown below
 
-	![](images/table.png "Times Table")
+	![](./images/table.png "Times Table")
 
     Use a ``for`` loop.  You must use correct HTML table elements([*](https://www.w3schools.com/html/html_tables.asp))
 
